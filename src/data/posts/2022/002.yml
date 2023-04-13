@@ -1,0 +1,12 @@
+datetime: 2022-11-12 09:30
+title: Découverte d'une solution pour publier sur Github pages
+resume: >
+  Un billet pour découvrir une solution php pour publier facilement sur la plateforme
+content: >
+  La plupart des sites internet que nous produisons ont leur contenu qui change tres peu voir pas du tout, par exemple des sites vitrines, de présentation d'un projet/d'une solution..
+
+
+  Quel est l'interet dans ce cas là d'avoir un projet qui utilise des technologies serveurs (php,python,nodejs) ainsi qu'une base de données qui serait requetée à chaque page si celle-ci ne change pratiquement jamais.
+
+  En partant de ce constat, on peut envisager dans ce genre de cas de générer ce site plus ou moins regulièrement puis d'heberger les pages en question sur un hebergement web.
+  Ici encore la question se pose : quel type d'hebergement : un vps, un hebergement mutualisé? A quoi bon payer un service qui nous mettrait à disposition ici une solution surdimensionné pour uniquement rendre des pages statiques, avez-vous envisager une autre solution à moindre de cout et tout aussi efficace? C'est ce que nous allons voir dans cet article.
